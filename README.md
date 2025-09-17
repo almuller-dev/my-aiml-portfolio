@@ -23,10 +23,18 @@
 ---
 
 ### **3️⃣ AI-Powered Trading Bot**
-🛠 **Tech:** Python, Flask, Reinforcement Learning  
-🔍 **Description:** Hybrid RL & technical indicator strategy for automated trading.  
-📈 **Impact:** Consistent **2% daily ROI in backtests**.  
+🛠 **Tech:** Python, Flask, Reinforcement Learning
+🔍 **Description:** Hybrid RL & technical indicator strategy for automated trading.
+📈 **Impact:** Consistent **2% daily ROI in backtests**.
 🔗 [**GitHub Repo**](#) | [**Live Strategy Breakdown**](#)
+
+---
+
+### **4️⃣ Qdrant as a Service (QaaS) Platform**
+🛠 **Tech:** Rust, Qdrant, FastAPI, Kafka, Terraform, AWS, Pulumi
+🔍 **Description:** Fully managed Qdrant vector database platform with automated ingestion from the eBay partner feed, tenant isolation, and managed lifecycle tooling.
+📈 **Impact:** Enabled three internal product teams to ship semantic search in <6 weeks, while cutting infrastructure costs by **35%** through multi-tenant resource sharing.
+🔗 [**Architecture Deep Dive**](projects/qdrant-as-a-service.md)
 
 ---
 
